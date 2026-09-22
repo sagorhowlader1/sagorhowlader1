@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on React.js, TypeScript, Next.js for frontend development.
 - 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Web Development Projects
 - 💬 Ask me about Full-Stack (React, Next, Express, MongoDB)
 - 📫 How to reach me: google "Sagor Howlader"
 - 😄 Pronouns: He/ Him
