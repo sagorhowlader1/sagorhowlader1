@@ -46,7 +46,6 @@ I'm a beginner Web Developer and CSE student, currently learning Full Stack Web 
 <h3 align="left">Database & Model:</h3>
 <p align="left">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <p/>
 <h3 align="left">Design & Graphics:</h3>
 <p align="left">
