@@ -52,10 +52,12 @@ I'm a beginner Web Developer and CSE student, currently learning Full Stack Web 
   </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <p/>
  
-<h3 align="left">Tools & Technologies::</h3>
+<h3 align="left">Tools & Technologies:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <p/>
+
+<h3 align="left">Repository Stats & Streak:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagorhowlader1&" alt="sagorhowlader1" /></p>
 
