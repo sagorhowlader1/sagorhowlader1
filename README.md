@@ -1,10 +1,12 @@
 ![Full Stack Web Developer](https://scontent.fdac191-1.fna.fbcdn.net/v/t39.30808-6/818743900_1129049296731988_359312376131082104_n.png?stp=dst-png&cstp=mx1983x793&ctp=s960x960&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFmZRmy8KUlUXWqfMLt65Qjgk_oyYES_hWCT-jJgRL-FW4O1FMKu6gRXGad2pJVn41qT9nDPdLi6te62sKXQF14&_nc_ohc=2SUcZmOeWrsQ7kNvwFhHEjR&_nc_oc=AdrevG4l--kMDb4SUk4j2Ai7xOfIiqtMcpwW4ihxBOM4vwhPggM0MiRp4M7fqCMUBlc&_nc_zt=23&_nc_ht=scontent.fdac191-1.fna&_nc_gid=I2Qn93y1WLIadfUFcSs5Uw&_nc_ss=7b2a8&oh=00_AQJIeyZSSwiZoJk9bhfPO3JhKqyf5nUCgNVNoyQudTeMiw&oe=6AB8C76E)
 
-<h1 align="center">Hi 👋, I'm Sagor Howlader </h1>
- Full Stack Web Developer
+<h1 align=center>Hi 👋, I'm Sagor Howlader </h1>
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=320&lines=Passionate+Full+Stack+Web+Developer+;JavaScript+%26+TypeScript+Enthusiast;CSE+Student+;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
+</p>
 
 - 🔭 I’m currently working on React.js, TypeScript, Next.js for frontend development.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Full-Stack (React, Next, Express, MongoDB)
 - 📫 How to reach me: google "Sagor Howlader"
 - 😄 Pronouns: He/ Him
