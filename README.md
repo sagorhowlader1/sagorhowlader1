@@ -14,7 +14,7 @@
 
 
 ## 📝 About Me:
-I'm a beginner Web Developer and CSE student, currently learning Full Stack Web Development. I enjoy building websites, solving problems, and learning new technologies. Currently, I'm focusing on JavaScript, React, Next.js and TypeScript while improving my skills every day.
+I'm a beginner Web Developer and CSE student. Currently, I'm Student Full Stack Web Development at Programming Hero. I enjoy building websites, solving problems, and learning new technologies. Currently, I'm focusing on JavaScript, React, Next.js and TypeScript while improving my skills every day.
 
 ## FOLLOW ME:
 <p align="left">
