@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1726368470248644608/1791253822/600x200)
+
 
 <h1 align=center>Hi 👋, I'm Sagor Howlader </h1>
 <p align="center">
