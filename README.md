@@ -1,5 +1,4 @@
-![](.<img width="960" height="384" alt="github" src="https://github.com/user-attachments/assets/e96efaba-2fa8-4034-9aa6-10116b603765" />
-/)
+!<img width="960" height="384" alt="github" src="https://github.com/user-attachments/assets/e96efaba-2fa8-4034-9aa6-10116b603765" />
 
 
 <h1 align=center>Hi 👋, I'm Sagor Howlader </h1>
